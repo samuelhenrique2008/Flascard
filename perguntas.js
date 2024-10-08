@@ -1,14 +1,14 @@
 
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é Programação?',
+    'São uma sequência de passos lógicos que dizem ao computador o que fazer. Na programação, os algoritmos são essenciais para criar softwares e ajudam a encontrar soluções para diferentes desafios.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programação',
+    'Qual são as tags principais html?',
+    'São p, h1, h2, h3, I.'
 )
 
 criaCartao(
@@ -18,7 +18,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'Qual meio mais famoso de fazer programação.',
+    'Python.'
 )
